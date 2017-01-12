@@ -21,9 +21,9 @@ subtitle: "A Bangalore theatre group"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 url: "https://renegadetheatre.github.io/" # the base hostname & protocol for your site
-baseurl: "/"
+baseurl:
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "/img/logo.png"
 
 # Build settings
 markdown: kramdown
